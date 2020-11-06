@@ -31,10 +31,10 @@ As a result of this notebook, a folder will be obtained with the audios cut into
 
 The dataset itself must cross these two information in a single file. The following describes how to generate the dataset according to the Mozzilla Deepspeech model, but the same logic can be adapted for other types of STT applications.
 
-# Step 1:
+## Step 1:
    Download the folder generated to your PC 
 
-# Step 2:
+## Step 2:
 Create a .txt file describing all the files in the downloaded folder using the following command that must be executed in the terminal (in my case Windows 10 was used):
 - Put you path to the folder in the command cd
 
