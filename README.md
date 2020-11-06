@@ -60,6 +60,9 @@ Organize the sentences in alphabetical order and delete blank sentences
 ### Step 7
 Complete the .tsv information using the standard Mozzilla Deepspeech documentation
 
+### Step 8
+Download the file as a .tsv
+
 ### Step 8 
 Save the audio files "Chunk_(i).wav" in a folder named "clips"
 
