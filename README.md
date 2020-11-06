@@ -31,10 +31,10 @@ As a result of this notebook, a folder will be obtained with the audios cut into
 
 The dataset itself must cross these two information in a single file. The following describes how to generate the dataset according to the Mozzilla Deepspeech model, but the same logic can be adapted for other types of STT applications.
 
-## Step 1:
+### Step 1:
    Download the folder generated to your PC 
 
-## Step 2:
+### Step 2:
 Create a .txt file describing all the files in the downloaded folder using the following command that must be executed in the terminal (in my case Windows 10 was used):
 - Put you path to the folder in the command cd
 
@@ -45,19 +45,19 @@ cd c:\user\fernando\download\STTDataset
 ```bash
 dir /b /o:n > files.txt
 ```
-# Step 3:
+### Step 3:
 Delete the names "audio.wav" and "transcript.txt" from "files.txt" as they will not be part of the dataset
 
-# Step 4
+### Step 4
 Organize the file names from the "files.txt" in numerical order with a .txt editor (I recommend using EM_Editor)
 
-# Step 5
+### Step 5
 Use a spreadsheet editor to generate the ".tsv" file (I used google sheets) using the path information of the files and the transcript in "transcript.txt" which will already be in the correct order
 
-# Step 6
+### Step 6
 Complete the .tsv information using the standard Mozzilla Deepspeech documentation
 
-# Step 7 
+### Step 7 
 Save the audio files "Chunk_(i).wav" in a folder named "clips"
 
 ---
