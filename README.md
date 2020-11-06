@@ -63,7 +63,7 @@ Complete the .tsv information using the standard Mozzilla Deepspeech documentati
 ### Step 8
 Download the file as a .tsv
 
-### Step 8 
+### Step 9 
 Save the audio files "Chunk_(i).wav" in a folder named "clips"
 
 ---
