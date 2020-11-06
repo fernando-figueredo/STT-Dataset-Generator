@@ -55,9 +55,12 @@ Organize the file names from the "files.txt" in numerical order with a .txt edit
 Use a spreadsheet editor to generate the ".tsv" file (I used google sheets) using the path information of the files and the transcript in "transcript.txt" which will already be in the correct order
 
 ### Step 6
+Organize the sentences in alphabetical order and delete blank sentences
+
+### Step 7
 Complete the .tsv information using the standard Mozzilla Deepspeech documentation
 
-### Step 7 
+### Step 8 
 Save the audio files "Chunk_(i).wav" in a folder named "clips"
 
 ---
