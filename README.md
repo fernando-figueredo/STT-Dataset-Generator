@@ -67,6 +67,9 @@ Download the file as a .tsv
 Save the audio files "Chunk_(i).wav" in a folder named "clips"
 
 ---
+# Comments
 
-Note that the .wav files are large, if you would like to make your dataset lighter, you can convert them to .mp3 at the end of the process
+-Note that the .wav files are large, if you would like to make your dataset lighter, you can convert them to .mp3 at the end of the process
+
+-You can separate the generated dataset for training, testing and validation
 
