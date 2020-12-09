@@ -77,6 +77,8 @@ Save the audio files "Chunk_(i).wav" in a folder named "clips"
 # References
 
 [1] Stack Overflow. **Split audio files using silence detection** [link](https://stackoverflow.com/questions/45526996/split-audio-files-using-silence-detection/46001755)
+
 [2] Lets Code. **Speech Recognition com Python** (portuguse) [link] (https://letscode.com.br/blog/speech-recognition-com-python)
+
 [3] Uberi. **SpeechRecognition** [link](https://github.com/Uberi/speech_recognition#readme)
 
